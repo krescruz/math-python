@@ -32,13 +32,12 @@ Multiplicación
 >>>5*3
 15
 ```
-División
-  Números enteros
+División números enteros
 ```
 >>>6/4
 1
 ```
-  Números decimales
+División números decimales
 ```
 >>>6/4.0
 1.5
