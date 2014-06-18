@@ -3,7 +3,7 @@ math-python
 
 Matemáticas con python
 
-Variables Numéricas enteras y reales
+Variables numéricas enteras y reales
 ---
 Python tiene dos tipos de variables numéricas: Enteras, aquellas sin decimales int(integer) y las Reales, con decimales (float) 
 ```
@@ -15,9 +15,9 @@ Python tiene dos tipos de variables numéricas: Enteras, aquellas sin decimales 
 2. (a),(c) Son de tipo real o float
 3. (b),(c) Numéricamente son iguales pero no son del mismo tipo.
 
-NOTA:
-1. Si los número operados son Enteros el resultado será Entero.
-2. Si uno de los número para operar es Real, etonces el resultado es Real.
+NOTA
+* Si los número operados son Enteros el resultado será Entero.
+* Si uno de los número para operar es Real, etonces el resultado es Real.
 
 Operaciones básicas
 ---
