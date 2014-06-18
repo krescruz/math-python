@@ -82,7 +82,7 @@ Módulo o resto de la división (%)
 >>> 25 % 5
 0
 ```
-Operaciones con Potencias (**)
+Operaciones con Potencias (**) y raíces
 ```
 >>> 2**3    
 8
